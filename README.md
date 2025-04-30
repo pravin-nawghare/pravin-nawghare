@@ -2,11 +2,17 @@
 - I'm a self-taught **Data Scientist** passionate about turning raw data into insights and visual stories. I also like to create Machine Learning solutions for real-world problems.
 - I started my data journey learning from **YouTube tutorials**, and later deepened my skills through a structured **online data analytics course**.
 - Though I come from a non-traditional background, I'm confident in my ability to clean, analyze, and visualize data effectively using real-world tools.
-- I am currently working on a machine learning project which predicts 90% of the customer who are most likely to churn. Created a web page for real time predictions. [Click Here](https://github.com/pravin-nawghare/Customer-Churn-Prediction)
-- I am a huge fan of Cricket, and i love to play it
-## 👀 I’m interested in creating dashboards and solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
-## 🌱 I’m currently learning Cloud technologies for MLOps and German language.
-- 📫 How to reach me ...
+- I am a huge fan of Cricket. I love to play cricket, watch cricket matches and blogs related to it. I also like to cook in my free time.
+## 🔭 I am currently working on 
+- A machine learning project which predicts 90% of the customer who are most likely to churn. Created a web page for real time predictions. [Click Here](https://github.com/pravin-nawghare/Customer-Churn-Prediction)
+
+## 👀 I’m interested in 
+- Creating dashboards and solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
+## 🌱 I’m currently learning 
+- [![Cloud technologies for MLOps]]() 
+- [![German language]]()
+## 📫 How to reach me 
+[](nawgharepraveen@gmail.com)
 
 <h2 align="left">I code with</h2>
 

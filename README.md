@@ -10,10 +10,10 @@
 ## 👀 I’m interested in 
 - Creating dashboards and solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
 ## 🌱 I’m currently learning 
-![MLOPS](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/MLOPS.jpg)
-![German](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/german.avif)
+[![MLOPS](assets/MLOPS.jpg)]
+[![German](assets/german.avif)]
 ## 📫 How to reach me 
-![Connect on](nawgharepraveen@gmail.com)
+[![Connect on](nawgharepraveen@gmail.com)]
 
 <h2 align="left">I code with</h2>
 

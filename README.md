@@ -13,7 +13,7 @@
 [<img src="assets/MLOPS.jpg" alt="MLOPS" height="50px">](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/MLOPS.jpg)
 [<img src="assets/german.avif" alt="German" height="50px">](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/german.avif)
 ## 📫 How to reach me 
-[<img src="assets/envelope.png" alt="Gmail" height="150px">](mailto:nawgharepraveen@gmail.com)
+[<img src="assets/envelope.png" alt="Gmail" height="50px">](mailto:nawgharepraveen@gmail.com)
 
 <h2 align="left">I code with</h2>
 

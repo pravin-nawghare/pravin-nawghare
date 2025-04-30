@@ -10,10 +10,10 @@
 ## 👀 I’m interested in 
 - Creating dashboards and solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
 ## 🌱 I’m currently learning 
-[![MLOPS](assets/MLOPS.jpg)]
-[![German](assets/german.avif)]
+[<img src="assets/MLOPS.jpg" alt="MLOPS" height="150px">](assets/MLOPS.jpg](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/MLOPS.jpg)
+[<img src="assets/german.avif" alt="German" height="150px">](assets/german.avif](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/german.avif)
 ## 📫 How to reach me 
-[![Connect on](nawgharepraveen@gmail.com)]
+[<img src="assets/envelope.png" alt="Gmail" height="150px">](nawgharepraveen@gmail.com)
 
 <h2 align="left">I code with</h2>
 
@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />

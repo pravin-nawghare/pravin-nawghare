@@ -7,6 +7,7 @@
 ## 👀 I’m interested in creating dashboards and solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
 ## 🌱 I’m currently learning Cloud technologies for MLOps and German language.
 - 📫 How to reach me ...
+[<a href="https://www.flaticon.com/free-icons/cricket-bat" title="cricket bat icons">Cricket bat icons created by Prosymbols Premium - Flaticon</a>]
 
 
 <!---

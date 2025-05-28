@@ -15,7 +15,7 @@
 ## 📫 How to reach me 
 [<img src="assets/envelope.png" alt="Gmail" height="50px">](mailto:nawgharepraveen@gmail.com)
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech stack I use</h2>
 
 ###
 
@@ -45,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo />
 </div>
 
 

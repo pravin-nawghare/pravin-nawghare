@@ -6,6 +6,7 @@
 
 ## 🔭 I am currently working on 
 - Creating an ai agent which can teach me new things. It is fully offline with a web ui to chat with it.
+- Working on customer segmentation project on telecom company's customer to decrease customer churn.
 
 ## 👀 I’m interested in 
 <!--

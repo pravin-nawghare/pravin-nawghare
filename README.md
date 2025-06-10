@@ -17,13 +17,14 @@
 - Quering databases to extract meaningful data to provide insights for taking informed decisions.
   
 ## 📊 Featured Projects
-### [Australian Road Accident Analysis - Power BI](https://github.com/pravin-nawghare/australia-accident-analysis)
+### <img src="https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/australia.png" alt="Australia" height="30px">[Australian Road Accident Analysis - Power BI](https://github.com/pravin-nawghare/australia-accident-analysis)
 Analyzed and visualized real-world road accident data from across Australia in Power BI. Created interactive dashboard to highlights key trends by location, vehicle type, and over speeding, etc. 
-### [Customer Churn Prediction End-to-End ML Pipeline – Machine Learning](https://github.com/pravin-nawghare/Customer-Churn-Prediction)
+### <img src="https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/churn-rate.png" alt="customer churn" height="30px">[Customer Churn Prediction End-to-End ML Pipeline – Machine Learning](https://github.com/pravin-nawghare/Customer-Churn-Prediction)
 Built a classification model to predict which customers are likely to churn. Worked on feature engineering, imbalanced data, and model tuning to improve performance. It automates the entire workflow from data ingestion to model deployment, with an api for real time inference.
-### [Automotive Fuel Economy Prediction - Python](https://github.com/pravin-nawghare/Automotive-Fuel-Economy-Predictior)
+### <img src="https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/mileage.png" alt="mileage" height="30px">[Automotive Fuel Economy Prediction - Python](https://github.com/pravin-nawghare/Automotive-Fuel-Economy-Predictior)
 Performed EDA on a vehicle dataset using Python. Identified key factors affecting car's fuel efficiency and presented insights through charts in a streamlit web app. Also created a machine learning model to predict fuel efficiency of the car.
- 
+
+
 ## 🌱 I’m currently learning 
 <!--
 [<img src="assets/MLOPS.jpg" alt="MLOPS" height="50px">](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/MLOPS.jpg)

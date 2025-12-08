@@ -1,8 +1,16 @@
-## 👋 Hi, I’m @pravin-nawghare
-- I'm a self-taught **Data Scientist** passionate about turning raw data into insights and visual stories. I also like to create Machine Learning solutions for real-world problems.
-- I started my data journey learning from **YouTube tutorials**, and later deepened my skills through a structured **online data analytics course**.
-- Though I come from a non-traditional background, I'm confident in my ability to clean, analyze, and visualize data effectively using real-world tools.
-- I am a huge fan of Cricket. I love to play cricket, watch cricket matches and read blogs related to it. I also like to cook in my free time.
+# 👋 Hi, I’m Pravin Nawghare! 👋
+
+## About Me
+Self-taught **Data Scientist** passionate about turning raw data into insights and visual stories. Gained hands-on experience by solving real world problems by attending several challenges hosted by different organisations/institutions. Though I come from a non-cs background, I'm confident in my ability to clean, analyze, visualize and provide solutions for real-world problems.
+
+My passion lies in AI/ML, Data Science and Business Intelligence. I thrive on 
+
+When I'm not immersed in data I, enjoy:
+- Watching cricket matches
+- Cooking
+- Watching movies
+- Understanding global business trends
+
 
 ## 🔭 I am currently working on 
 - Creating an ai agent which can teach me new things. It is fully offline with a web ui to chat with it.
@@ -78,11 +86,15 @@ Performed EDA on a vehicle dataset using Python. Identified key factors affectin
 </div>
 
 ## 📫 How to reach me 
-[<img src="assets/envelope.png" alt="Gmail" height="50px">](mailto:nawgharepraveen@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="Linkedin" />](https://www.linkedin.com/in/praveen-nawghare)
+<img src="assets/envelope.png" alt="Gmail" height="10px"> **Email**: nawgharepraveen@gmail.com
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="15" alt="Linkedin" /> **LinkedIn**: [linkedin.com/in/praveen-nawghare](https://www.linkedin.com/in/praveen-nawghare)
 
-**Thanks for visiting my profile! If you're looking for a motivated, analytical thinker who loves to dig into data and bring value through insights—let’s talk.**
+🐱 **Github**: You're already here!
+
+---
+
+😊 **Thanks for visiting my profile! Feel free to explore my projects and connect with me. I'm always open to learning, collaborating, and discussing exciting opportunities in data science and AI! 🚀**
 
 
 

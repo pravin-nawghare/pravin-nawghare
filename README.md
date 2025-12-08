@@ -1,51 +1,34 @@
 # 👋 Hi, I’m Pravin Nawghare! 👋
 
 ## About Me
-Self-taught **Data Scientist** passionate about turning raw data into insights and visual stories. Gained hands-on experience by solving real world problems by attending several challenges hosted by different organisations/institutions. Though I come from a non-cs background, I'm confident in my ability to clean, analyze, visualize and provide solutions for real-world problems.
+**Data Scientist** passionate about turning raw data into insights and visual stories with a unique blend of technical expertise and business acumen. Gained hands-on experience by solving real world problems by attending several bootcamps and challenges hosted by different organisations/institutions. Though I come from a non-cs background, I'm confident in my ability to clean, analyze, visualize and provide solutions for real-world problems.
 
-My passion lies in AI/ML, Data Science and Business Intelligence. I thrive on 
+My passion lies in AI/ML, Data Science and Business Intelligence. I thrive on transforming complex datasets into actionable insights and creating innovative solutions to real-world business problems. Currently focused on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and building intelligent systems that democratize expert knowledge.
 
 When I'm not immersed in data I, enjoy:
-- Watching cricket matches
-- Cooking
-- Watching movies
-- Understanding global business trends
+- 🏏 Watching cricket matches
+- 👨‍🍳 Cooking
+- 🎬 Watching movies
+- 🌍 Understanding global business trends
 
+---
 
-## 🔭 I am currently working on 
-- Creating an ai agent which can teach me new things. It is fully offline with a web ui to chat with it.
-- Working on customer segmentation project on telecom company's customer to decrease customer churn.
+## 🛠️ My Skills
+- **Machine Learning**: Supervised Learning (Regression, Classification, Ensemble Methods), Unsupervised Learning (Clustering, PCA, DBSCAN)
+- **Deep Learning & AI**: Neural Networks, CNN, RNN, LSTM, Transformers, LLMs (Gemma, LLaMA)
+- **Natural Language Processing (NLP)** & **Retrieval-Augmented Generation (RAG)**
+- **Business Intelligence & Analytics**: Financial Modeling, KPI Analysis, Dashboard Development
+- **Data Engineering**: ETL Pipelines, Data Warehousing, Data Quality Management
+- **Statistical Analysis & A/B Testing**
 
-## 👀 I’m interested in 
-<!--
-- Creating dashboards and solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
--->
-- Creating dashboards to provide information from raw data to make strategic decisions.
-- Providing solutions for real-world problems either using Machine Learning/Deep Learning or simply with Data Analysis.
-- Quering databases to extract meaningful data to provide insights for taking informed decisions.
-  
-## 📊 Featured Projects
-### <img src="https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/australia.png" alt="Australia" height="30px">[Australian Road Accident Analysis - Power BI](https://github.com/pravin-nawghare/australia-accident-analysis)
-Analyzed and visualized real-world road accident data from across Australia in Power BI. Created interactive dashboard to highlights key trends by location, vehicle type, and over speeding, etc. 
-### <img src="https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/churn-rate.png" alt="customer churn" height="30px">[Customer Churn Prediction End-to-End ML Pipeline – Machine Learning](https://github.com/pravin-nawghare/Customer-Churn-Prediction)
-Built a classification model to predict which customers are likely to churn. Worked on feature engineering, imbalanced data, and model tuning to improve performance. It automates the entire workflow from data ingestion to model deployment, with an api for real time inference.
-### <img src="https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/mileage.png" alt="mileage" height="30px">[Automotive Fuel Economy Prediction - Python](https://github.com/pravin-nawghare/Automotive-Fuel-Economy-Predictior)
-Performed EDA on a vehicle dataset using Python. Identified key factors affecting car's fuel efficiency and presented insights through charts in a streamlit web app. Also created a machine learning model to predict fuel efficiency of the car.
-
-
-## 🌱 I’m currently learning 
-<!--
-[<img src="assets/MLOPS.jpg" alt="MLOPS" height="50px">](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/MLOPS.jpg)
-[<img src="assets/german.avif" alt="German" height="50px">](https://github.com/pravin-nawghare/pravin-nawghare/blob/main/assets/german.avif)
--->
-- Machine Learning System Design
-- Creating more advanced Power BI dashboards with DAX
-- Integrating MLOps principles for seamless automation and collaboration
-
-<h2 align="left">Tech stack I use</h2>
-
-
-###
+### Tools & Technologies
+- **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL
+- **Databases**: MySQL, Snowflake, DynamoDB, MongoDB
+- **Cloud Platforms**: AWS (S3, DynamoDB, Athena), Google Cloud
+- **Visualization & BI**: Power BI, Matplotlib, Seaborn, Plotly
+- **ML/AI Frameworks**: Langchain, Streamlit, FAISS, Parameter-efficient Fine-tuning (LoRA, QLoRA)
+- **Data Tools**: Excel (Advanced), Apache Airflow, Gradio
+- **Others**: Git, Docker, Jupyter, DVC, MlFlow, Github Actions, Grafana, Agent-Based Modeling
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -85,10 +68,38 @@ Performed EDA on a vehicle dataset using Python. Identified key factors affectin
 
 </div>
 
-## 📫 How to reach me 
-<img src="assets/envelope.png" alt="Gmail" height="10px"> **Email**: nawgharepraveen@gmail.com
+---
+  
+## 🚀 Featured Projects
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="15" alt="Linkedin" /> **LinkedIn**: [linkedin.com/in/praveen-nawghare](https://www.linkedin.com/in/praveen-nawghare)
+### Business Intelligence Projects
+- **[Australian Road Accident Analysis](https://github.com/pravin-nawghare/australia-accident-analysis)**
+
+  Developed an interactive dashboard to highlights key trends by location, vehicle type, and over speeding, etc. on real-world road accident data from Australia in Power BI. Recommended strategies to help Australian government to acheive their zero accident goal till 2050.
+
+### AI/ML & LLM Projects
+- **[Customer Churn Prediction End-to-End ML Pipeline](https://github.com/pravin-nawghare/Customer-Churn-Prediction)**
+  
+    Developed a churn prediction model, flagging 26% of vulnerable customers directly affecting $3.6M in potential revenue loss. Worked on feature engineering, imbalanced data, and model tuning to improve model performance. Automated the entire workflow from data ingestion to model deployment, with an api for real time inference.
+
+- **[Automotive Fuel Economy Predictior](https://github.com/pravin-nawghare/Automotive-Fuel-Economy-Predictior)**
+  
+  Developed a dashboard on streamlit web app to showcase key factors affecting car's fuel efficiency. Built a machine learning model to predict fuel efficiency of the car.
+
+### Analytical Projects
+
+---
+
+## 🔭 Recent Activities
+- Working on **Advanced LLM Applications** and **RAG Systems**
+- Exploring **Agent-Based Modeling** for knowledge preservation
+
+---
+
+## 📫 How to reach me 
+📧 **Email**: nawgharepraveen@gmail.com
+
+💼 **LinkedIn**: [linkedin.com/in/praveen-nawghare](https://www.linkedin.com/in/praveen-nawghare)
 
 🐱 **Github**: You're already here!
 

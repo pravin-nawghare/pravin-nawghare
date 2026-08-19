@@ -77,7 +77,7 @@ When I'm not immersed in data I, enjoy:
 
   Developed an interactive dashboard to highlights key trends by location, vehicle type, and over speeding, etc. on real-world road accident data from Australia in Power BI. Recommended strategies to help Australian government to acheive their zero accident goal till 2050.
 
-### AI/ML & LLM Projects
+### Machine Learning Projects
 - **[Customer Churn Prediction End-to-End ML Pipeline](https://github.com/pravin-nawghare/Customer-Churn-Prediction)**
   
     Developed a churn prediction model, flagging 26% of vulnerable customers directly affecting $3.6M in potential revenue loss. Worked on feature engineering, imbalanced data, and model tuning to improve model performance. Automated the entire workflow from data ingestion to model deployment, with an api for real time inference.
@@ -86,20 +86,29 @@ When I'm not immersed in data I, enjoy:
   
   Developed a dashboard on streamlit web app to showcase key factors affecting car's fuel efficiency. Built a machine learning model to predict fuel efficiency of the car.
 
-### Analytical Projects
+### LLM based Projects
+- **[ChatGPT Agent](https://github.com/pravin-nawghare/ChatGPT-Agent)**
+  
+  Agentic chatbot like ChatGPT, having capabilities to reason, search web, access tools and provide responses to user query.
+  
+- **[Multi-Agent-Orchestration-using-A2A](https://github.com/pravin-nawghare/Multi-Agent-Orchestration-using-A2A)**
+  
+  A privacy-aware multi-agent coordination platform where autonomous personal agents negotiate availability and preferences, a planning agent uses MCP tools to generate travel options, and participants approve a final itinerary before execution.
 
 ---
 
 ## 🔭 Recent Activities
 - Working on **Advanced LLM Applications** and **RAG Systems**
-- Exploring **Agent-Based Modeling** for knowledge preservation
+- **Fine Tuning transformers** for custom application
 
 ---
 
 ## 📫 How to reach me 
 📧 **Email**: nawgharepraveen@gmail.com
 
-💼 **LinkedIn**: [linkedin.com/in/praveen-nawghare](https://www.linkedin.com/in/praveen-nawghare)
+📚 **Medium**: [Medium](https://medium.com/@nawgharepravin0)
+
+💼 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/praveen-nawghare)
 
 🐱 **Github**: You're already here!
 
